@@ -176,7 +176,7 @@ Love to solve complex things in simple ways.
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ankitchoudhary-vcf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitchoudhary-vcf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitchoudhary-vcf&bg_color=ff810a&color=ffffff&line=ffffff&point=0055ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr/>
 
 <img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/ankitchoudhary-vcf"/>
